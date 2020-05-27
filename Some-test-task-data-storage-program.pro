@@ -21,6 +21,7 @@ SOURCES += \
 
 HEADERS += \
     mainwindow.h \
+    myconstants.h \
     mytimers.h
 
 FORMS += \
